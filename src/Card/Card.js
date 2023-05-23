@@ -28,18 +28,18 @@ function Card() {
           </div>
           <hr />
           <div className='Shoping__item__text'>
-            <h2>Fancy Product</h2>
+            <h2>Special Item</h2>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
-            <h5><span>$40.00</span>
-            $80.00</h5>
+            <h5><span>$20.00</span>
+            $18.00</h5>
           </div>
         </div>
         <div className="Card_Footer">
-          <a href="#" >View Options</a>
+          <a href="#" >Add to cart</a>
         </div>
       </div>
 
@@ -50,13 +50,13 @@ function Card() {
           </div>
           <hr />
           <div className='Shoping__item__text'>
-            <h2>Fancy Product</h2>
-            <h5><span>$40.00</span>
-            $80.00</h5>
+            <h2>Sale Item</h2>
+            <h5><span>$50.00</span>
+            $25.00</h5>
           </div>
         </div>
         <div className="Card_Footer">
-          <a href="#" >View Options</a>
+          <a href="#" >Add to cart</a>
         </div>
       </div>
 
@@ -67,17 +67,17 @@ function Card() {
           </div>
           <hr />
           <div className='Shoping__item__text'>
-            <h2>Fancy Product</h2>
+            <h2>Popular Item</h2>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
-            <h5>$40.00 - $80.00</h5>
+            <h5>$40.00</h5>
           </div>
         </div>
         <div className="Card_Footer">
-          <a href="#" >View Options</a>
+          <a href="#" >Add to cart</a>
         </div>
       </div>
 
@@ -90,13 +90,13 @@ function Card() {
           </div>
           <hr />
           <div className='Shoping__item__text'>
-            <h2>Fancy Product</h2>
-            <h5><span>$40.00</span>
-            $80.00</h5>
+            <h2>Sale Item</h2>
+            <h5><span>$50.00</span>
+            $25.00</h5>
           </div>
         </div>
         <div className="Card_Footer">
-          <a href="#" >View Options</a>
+          <a href="#" >Add to cart</a>
         </div>
       </div>
 
@@ -108,7 +108,7 @@ function Card() {
           <hr />
           <div className='Shoping__item__text'>
             <h2>Fancy Product</h2>
-            <h5>$40.00 - $80.00</h5>
+            <h5>$120.00 - $280.00</h5>
           </div>
         </div>
         <div className="Card_Footer">
@@ -124,18 +124,18 @@ function Card() {
           </div>
           <hr />
           <div className='Shoping__item__text'>
-            <h2>Fancy Product</h2>
+            <h2>Special Item</h2>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
-            <h5><span>$40.00</span>
-            $80.00</h5>
+            <h5><span>$20.00</span>
+            $18.00</h5>
           </div>
         </div>
         <div className="Card_Footer">
-          <a href="#" >View Options</a>
+          <a href="#" >Add to cart</a>
         </div>
       </div>
 
@@ -146,17 +146,17 @@ function Card() {
           </div>
           <hr />
           <div className='Shoping__item__text'>
-            <h2>Fancy Product</h2>
+            <h2>Popular Item</h2>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
             <i class="fa fa-star" aria-hidden="true"></i>
-            <h5>$40.00 - $80.00</h5>
+            <h5>$40.00</h5>
           </div>
         </div>
         <div className="Card_Footer">
-          <a href="#" >View Options</a>
+          <a href="#" >Add to cart</a>
         </div>
       </div>
 
