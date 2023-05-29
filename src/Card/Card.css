@@ -65,7 +65,7 @@
 
 a{
     text-decoration: none;
-    color: #160e0e;
+    color: inherit;
     font-size: 15px;
     cursor: pointer;
 }
@@ -75,6 +75,6 @@ a{
     color: #fff;
 }
 
-a:hover{
+/* a:hover{
     color: #fff;
-}
+} */

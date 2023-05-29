@@ -1,5 +1,7 @@
 import React from 'react'
 import './Card.css'
+import Product from '../Product';
+
 
 function Card() {
   return (
@@ -16,7 +18,7 @@ function Card() {
           </div>
         </div>
         <div className="Card_Footer">
-          <a href="#" >View Options</a>
+        <Product />
         </div>
       </div>
 

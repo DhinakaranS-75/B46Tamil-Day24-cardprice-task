@@ -1,5 +1,6 @@
 import React from 'react'
 import './Navbar.css'
+import Product from '../Product';
 
 function Navbar() {
   return (
